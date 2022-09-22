@@ -1,0 +1,3 @@
+https://app.pluralsight.com/library/courses/python-data-science
+https://app.pluralsight.com/player?course=python-data-science&author=abhishek-kumar&name=python-data-science-m4&clip=4&mode=live
+42
